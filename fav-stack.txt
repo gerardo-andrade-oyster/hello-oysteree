@@ -1,0 +1,5 @@
+tecnologias que quiero aprender este año:
+
+- GIT
+- Docker
+- Liquibase
